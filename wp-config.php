@@ -1,9 +1,6 @@
 ﻿<?php
-
 /** Enable W3 Total Cache */
-
-define( 'WP_CACHE', true ); // Added by W3 Total Cache
-
+define('WP_CACHE', true); // Added by W3 Total Cache
 
 
 /** 
@@ -26,10 +23,10 @@ define( 'WP_CACHE', true ); // Added by W3 Total Cache
 define('DB_NAME', 'pr19wp');
 
 /** Tu nombre de usuario de MySQL */
-define('DB_USER', 'root');
+define('DB_USER', 'infomart');
 
 /** Tu contraseña de MySQL */
-define('DB_PASSWORD', "");
+define('DB_PASSWORD', 'Vnf0O05t2z');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
 define('DB_HOST', 'localhost');

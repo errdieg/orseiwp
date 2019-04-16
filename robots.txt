@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /xmlrpc.php
+Disallow: /readme.html
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Sitemap: http://orsei.es/wp/sitemap_index.xml

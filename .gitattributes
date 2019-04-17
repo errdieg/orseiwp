@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+20190416_antesSSL_d1f189e6a74827228237_20190416082932_archive.zip filter=lfs diff=lfs merge=lfs -text

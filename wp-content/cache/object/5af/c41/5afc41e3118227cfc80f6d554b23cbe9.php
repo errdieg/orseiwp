@@ -1,1 +1,0 @@
-°µ\<?php exit; ?>a:1:{s:7:"content";s:87:"a:1:{s:42:"waspthemes-yellow-pencil/yellow-pencil.php";s:23:"uninstall_yellow_pencil";}";}
